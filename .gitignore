@@ -1,0 +1,14 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# DAW / audio tool temp files
+*.asd
+*.bak
+*.tmp
+~*
+
+# Large raw exports (uncomment/adjust if you want these tracked)
+# *.wav
+# *.flac
