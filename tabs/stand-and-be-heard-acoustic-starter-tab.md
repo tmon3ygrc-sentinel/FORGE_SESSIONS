@@ -1,4 +1,4 @@
-# Stand and Be Heard (Acoustic) — starter tab
+# Stand and Be Heard (Acoustic) — starter tab (pass 2)
 
 > **What this is:** a playable *starting arrangement*, not a note-for-note transcription.
 > Chords and bars come from the analysis in `stand-and-be-heard-acoustic.md` (high confidence in the strong sections).
@@ -24,6 +24,29 @@ B7|      x      x      x      x      x      x      x
 ```
 
 F is a full barre (1st fret above the capo). Easier option: **Fmaj7** = `x x 3 2 1 0` (D-G-B-e: 3-2-1-0). It sounds softer but fits the acoustic style.
+
+## Option B: closer to the recording (no capo, barre voicings)
+
+Pass-2 voicing analysis (2026-10-24) suggests the recorded guitar emphasizes **root – 5th – octave on the low strings**, with weak 3rds:
+- **A♭:** the strong E♭3 and weak C3 point to the **E-shape barre at the 4th fret**, *not* the open G shape.
+- **G♭:** a low G♭2 root, and no major 7th, point to the **full E-shape barre at the 2nd fret**, not Fmaj7.
+- **B♭m:** B♭2 / F3 / B♭3 match the **A-shape minor barre at the 1st fret** (identical to capo-1 Am).
+- **D♭:** inconclusive (the C-shape and A-shape barre fit about equally).
+
+Everything sits in **frets 1–6**, no capo, roots on the 6th/5th strings:
+
+```
+         B♭m    G♭     A♭     D♭     E♭m    E♭     B♭
+e |      1      2      4      4      2      3      1
+B |      2      2      4      6      4      4      3
+G |      3      3      5      6      3      3      3
+D |      3      4      6      6      1      1      3
+A |      1      4      6      4      x      x      1
+E |      x      2      4      x      x      x      x
+B7|      x      x      x      x      x      x      x
+```
+
+Use **Option A** (capo 1, open shapes) to learn the song quickly; move to **Option B** for the band sections where you want weight. Because the 3rds measured weak, **root–5th power-chord versions** (just the bottom 3 strings of each barre) also fit the full-band sections.
 
 ## Patterns
 
@@ -58,6 +81,20 @@ Arpeggio option for P2/P3 sections: pick the bass note on beat 1, then strings 3
 | 179–199 | Outro | Am – F – G – Am variations; ending **F – F – D – A – Am** | **P2** → **P1**, last Am let ring | ~1–2/bar |
 
 The Turn's last chord **D** (sounds E♭ *major*) is the Dorian lift: a bright surprise before the Am break. If it sounds wrong against the track, try Dm instead.
+
+## Dynamics: who's playing when (from stem levels)
+
+The "solo acoustic" prompt got a band anyway. The guitar stays level (~−28 dB) throughout; **bass and drums enter and leave**:
+
+| Bars | Band | Play it |
+|---|---|---|
+| 1–48 (Intro, Verse 1) | guitar + vocal only (bass/drums ~−40 dB) | soft, let ring; Option A |
+| 49–101 (Verse 2 → Chorus) | **bass + drums enter**, chorus loudest so far | fuller; Option B is OK in the chorus |
+| 102–118 (Post-chorus) | **bass and drums drop out** (−34 / −39 dB) | pull back |
+| 119–178 (Turn → Final chorus) | full band, loudest section (−20 dB) | biggest strums, Option B / power chords |
+| 179–199 (Outro) | bass stays, drums ease off; **woodwind appears** (only here) | wind down to single strums |
+
+The bass is a real part, not guitar bleed: its root matches the guitar chord in **78 of 88 bars**, so you can use the bass stem as a root-note reference.
 
 ## Practice order (Thursday)
 
