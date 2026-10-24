@@ -12,3 +12,10 @@ desktop.ini
 # Large raw exports (uncomment/adjust if you want these tracked)
 # *.wav
 # *.flac
+
+# Audio stays out of git: stems live in C:\Work\Music\STEMS
+*.wav
+*.mp3
+*.flac
+*.aif
+*.aiff
