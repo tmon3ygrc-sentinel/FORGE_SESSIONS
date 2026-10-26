@@ -11,6 +11,7 @@
 ## Songs
 
 - [The First Victory](the-first-victory.md) — 己に勝て — Conquer the Self (14 lines)
+  - [The First Victory (Anime OP)](the-first-victory-anime-op.md) — 最初の勝利は己に勝つこと — The first victory is conquering yourself (15 new lines)
 - [What We Cannot Lose](what-we-cannot-lose.md) — 手放せば光が満ちる — When I let go, light fills the space (7 lines)
 - [Still Small Voice](still-small-voice.md) — 静かに聞け — Listen in stillness (6 lines)
 - [凪の海に光が降る](nagi-no-umi-ni-hikari-ga-furu.md) — Nagi no umi ni hikari ga furu — Light descends on a stilled sea (9 lines)
