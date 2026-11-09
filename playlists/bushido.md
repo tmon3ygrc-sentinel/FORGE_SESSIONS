@@ -4,10 +4,10 @@
 
 - **Suno album:** https://suno.com/album/5d3e87ae-4d0d-49fe-828b-c1dad49f20c5
 - **Released:** 2026-10-02
-- **Length:** 5 tracks, 28:11
-- **Captured:** 2026-11-08 (read-only snapshot of the Suno album page; Suno is the live source for order)
+- **Length:** 17 tracks, 93:40
+- **Captured:** 2026-11-08, after the act reorder (read-only snapshot of the Suno album page, order verified 17/17)
 
-**Intent (T, 2026-11-08):** trio songs only (tmon3yhope + Koji + Nagi).
+**Intent (T, 2026-11-08):** trio songs, sequenced as the three acts of the tmon3yhope universe: the storm, the forge, the stillness (see `world_building.md`).
 
 > The way of the warrior was never about the sword. It was about what you master before you ever draw it.
 >
@@ -18,21 +18,29 @@
 
 ## Running order
 
-| # | Title | Length | Notes |
-|---|-------|--------|-------|
-| 1 | One Ember | 3:59 |  |
-| 2 | S&BH34RD[Remix] | 5:44 |  |
-| 3 | The Warrior Remains(Mirror’s Reflection) | 6:13 |  |
-| 4 | The Courage to Let Go(Bushido Cut) | 5:56 |  |
-| 5 | The Fire Refines the Steel | 6:19 | new 10-26→11-08 |
+| # | Title | Length | Act | Notes |
+|---|-------|--------|-----|-------|
+| 1 | While the Storm Rages | 6:18 | I · The Storm | COVER |
+| 2 | Hold On (嵐). Anime ED version | 6:48 | I · The Storm |  |
+| 3 | S&BH34RD[Remix] | 5:44 | I · The Storm |  |
+| 4 | 出る杭(Koji’s Journey) | 3:56 | II · The Forge | hinge; also on BtE |
+| 5 | The Fire Refines the Steel | 6:19 | II · The Forge |  |
+| 6 | Refined to Reflect | 5:30 | II · The Forge |  |
+| 7 | Wings Too Fast | 3:58 | II · The Forge |  |
+| 8 | Small Wings(Way of the Hummingbird) | 4:14 | II · The Forge |  |
+| 9 | The Courage to Let Go(Bushido Cut) | 5:56 | II · The Forge |  |
+| 10 | The Stroke | 6:49 | II · The Forge | duet by lyric labels (tmon3yhope + Nagi) |
+| 11 | The First Victory(Touhou / Doujin inspired ) | 6:40 | III · The Stillness |  |
+| 12 | The Warrior Remains(Mirror’s Reflection) | 6:13 | III · The Stillness |  |
+| 13 | Hand Over Hand | 4:57 | III · The Stillness |  |
+| 14 | One Ember | 3:59 | III · The Stillness |  |
+| 15 | Stand and Be Heard(Accoustic) (Remastered) | 6:01 | III · The Stillness | reprise of #3 |
+| 16 | WHAT WE CANNOT LOSE | 5:56 | III · The Stillness | COVER; the 5:56 version (lyric labels still say "Nani") |
+| 17 | 静かな朝に手をひく(Nagi’s Voice) | 4:22 | III · The Stillness | epilogue; also on BtE |
 
-## Changes since the 2026-10-26 capture
+## Changes
 
-- 22 → 5 tracks.
-- Renamed: Bushido → Bushido Triumph.
-- Description still says "Bushidō is 13 songs"; the album now has 5.
-- **Added:** One Ember (3:59); S&BH34RD[Remix] (5:44); The Fire Refines the Steel (6:19)
-- **Removed:** The Mirror and the Flame (6:35); The First Victory(Touhou / Doujin inspired ) (6:40); WHAT WE CANNOT LOSE (5:56); The Stroke (6:49); Small Wings(Way of the Hummingbird) (4:14); Hand Over Hand (4:57); Wings Too Fast (3:58); The Warrior Remains (5:46); 感謝しろ！前へ！(Koji) (4:19); 凪の海に光が降る — Light descends on a stilled sea. (4:23); Humbly Forward(Koji) (4:01); 凪の海に光が降る (5:02); The First Victory (Anime OP style) (6:42); Release (4:27); Hold On (嵐). Anime ED version (6:48); The Courage to Letting Go (Tmon3yhope & Nagi) (6:07); We Were Made For Something (5:48); The Warrior Remains (Doujin) (5:53); Shadow and Flames(feat Nagi & Koji) (3:17); When the Water Becomes Still (6:46)
-- The removed 3:17 "Shadows and Flame" may be either of two same-length clips (only one was renamed to "Shadow and Flames (feat Nagi & Koji)"); the album page does not show clip ids.
-- Renamed tracks are matched by clip, not counted as removed + added (e.g. Known God → Known God (feat Koji)).
+- **2026-11-08 (later):** 5 → 17 tracks, ordered as three acts. Added: While the Storm Rages, Hold On (嵐) Anime ED, 出る杭 (Koji's Journey), Refined to Reflect, Wings Too Fast, Small Wings, The Stroke, The First Victory (Touhou), Hand Over Hand, Stand and Be Heard (Acoustic, Remastered, 6:01), WHAT WE CANNOT LOSE (5:56), 静かな朝に手をひく (Nagi's Voice).
+- **2026-11-08:** renamed Bushido → Bushido Triumph, cut 22 → 5 (trio-only intent).
+- The description still says "Bushidō is 13 songs"; the album has 17.
 - Earlier history: see git log for this file.

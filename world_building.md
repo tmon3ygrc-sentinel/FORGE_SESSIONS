@@ -24,4 +24,20 @@ The three are not separate characters so much as stages of the same movement:
 - **Trio songs** carry all three voices — powerful male lead, Japanese male counterpart, ethereal female harmonies — usually bilingual English/Japanese. See *The First Victory*, *What We Cannot Lose*, *Still Small Voice*.
 - **Nagi solo** work is Japanese only, sparse and reverent — see *凪の海に光が降る*.
 
+## The three acts
+
+The trio's three stages are also the shape of the whole tmon3yhope universe: a storm, a forge, and the stillness after.
+
+| Act | Stage | Image | Albums |
+|---|---|---|---|
+| **I. The Storm** | Tmon3yhope — the warrior who builds | struggle, fire, standing up | *Between the Embers* |
+| **II. The Forge** | Koji — the discipline that refines | hammer, refining, letting go | *Bushido Triumph* |
+| **III. The Stillness** | Nagi — the stillness that follows | the quiet morning, the shared fire | *The Quiet Within* · *Daily Journal* · *Retrospection* |
+
+*Sparks.* sits outside the arc: alternate cuts from the forge.
+
+- *Between the Embers* is the warrior alone (solo tmon3yhope), and it ends by introducing the next two stages in order: *出る杭 (Koji's Journey)*, then *静かな朝に手をひく (Nagi's Voice)*.
+- *Bushido Triumph* is the trio album and holds the whole journey in miniature: storm → forge → the first victory, then rising together. It opens in *While the Storm Rages* and closes on *Nagi's Voice*.
+- The arc mirrors 凪 itself: not emptiness, but the calm a sea reaches only after the storm has passed through it.
+
 See [`romaji/`](romaji/README.md) for pronunciation and cultural notes on the Japanese lyrics.
